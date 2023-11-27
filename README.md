@@ -34,5 +34,17 @@
   ---HTML SOLVED---
   › at line 81 the fotter was h2 then, i replaced to h3 matches the h3 "benefit-cost" and h3 "benefit-brand".
   ------------------------------------------------------
-  
- 
+  ---HTML UNSOLVED---
+  › at line 13 to line 25 it was written <div>.
+  ---HTML FIXED---
+  › I replaced the div to <nav> and the closing tab will be the samething like </nav> at line 25.
+  ______________________________________________________
+  html unsolved 
+  › at line 31 it was div class=content
+  html fixed
+  › at I replaced the div to <section> and closing </section> at line 53.
+  ___________________________________________
+ html unsolved
+ › at line 54 it was <div> and closing</div> at line 79
+ html fixed
+ › I replaced div to <section> at line 54 to line 79 clsoing tab </section>.
