@@ -48,3 +48,20 @@
  › at line 54 it was <div> and closing</div> at line 79
  html fixed
  › I replaced div to <section> at line 54 to line 79 clsoing tab </section>.
+ _______________________________________________________
+ html unsolved
+ › at line 80 it was div class="footer".
+ html fixed
+ › I replaced div to footer at line 80 until line 85.
+ ______________________________________________________
+ html fixed
+ › at line 55 i put <aside> closing </aside> at line 61 then,
+ › at line 62 i put <aside> closing </aside> at line 68 then,
+ › at line 69 i put <aside> closing </aside> at line 75.
+ ___________________________________________________________________
+ 
+        --- CSS fixing---
+      
+   # Description
+  › in the css there is three section where lines that have a white color named #ffffff, so i have to condense each group into one line since they have the same parameter.
+  › 
