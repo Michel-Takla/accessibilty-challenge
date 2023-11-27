@@ -10,7 +10,7 @@
 
  ---HTML FIXED---
  › I moved or I cut the <div> that was inside the bodythen i put it on the top then I replaced the name of the <div> to <header>,
-  So if you asked me how did i know that is supposed to be <header> but not the <div>, the answer is because the unsolved htlm the div was inside that body,
+  So if you asked me how did i know that is supposed to be <header> but not the <div>?, the answer is because the unsolved htlm the div was inside that body,
   and include the ul and li. So that mean it describe the header but not the div. The header should come first and its already include the ul and li link, then i replaced the name
   <div> to <header>. ((Conclusion))--->it was <div> inside the body then I replaced to <header> the i put it on the top not inside the body.
   ..........................
@@ -28,4 +28,9 @@
   › <div id="search-engine-optimization" class="search-engine-optimization">
   › <div id="online-reputation-management" class="online-reputation-managment">
   › <div id="social-media-marketing" class="social-media-marketing">
+  ...........................
+  ---HTML UNSOLVED---
+  › at line 80 or 81 the footer was h2.
+  ---HTML SOLVED---
+  › at line 81 the fotter was h2 then, i replaced to h3 matches the h3 "benefit-cost" and h3 "benefit-brand".
  
