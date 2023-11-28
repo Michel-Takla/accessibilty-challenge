@@ -70,3 +70,13 @@
   margin-bottom: 32px;
   color #ffffff
   }.
+  › samething with line 127 i added the other 2 section into one line at line 127 i did this,
+   .search-engine-optimization, online-reputation-management, social-media-marketing{
+     margin-bottom: 20px;
+     padding: 50px;
+     height: 300px;
+     font-family: 'Gill sans', 'Gil san MT', Trebuchet MS', san-serif;
+     background-color: #0072bb;
+     color: #ffffff;
+     }
+  › the from line 136 to 152, because i dont need these line condense at line 127.
