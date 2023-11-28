@@ -64,4 +64,9 @@
       
    # Description
   › in the css there is three section where lines that have a white color named #ffffff, so i have to condense each group into one line since they have the same parameter.
-  › 
+  › at line 89 i added benefit-brand, brnefit-cost to condense them into one line then, i deleted the code at line 94 to 102.
+    for example...
+  › .benefit-brand, benefit-lead, benefit-cost{
+  margin-bottom: 32px;
+  color #ffffff
+  }.
